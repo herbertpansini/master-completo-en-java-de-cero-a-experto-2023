@@ -1,0 +1,27 @@
+
+7
+java:S1220""Move this file to a named package.8Äú”«1
+[
+java:S1854">Remove this useless assignment to local variable "nummeroVar".(Öµ˜´8÷İ°”«1
+L	java:S106"+Replace this use of System.out by a logger.(óˆÆ˜úÿÿÿÿ8Êú”«1
+G	java:S106"+Replace this use of System.out by a logger.(èåÆ°8Ëú”«1
+L	java:S106"+Replace this use of System.out by a logger.(ú–Õ¸üÿÿÿÿ8Ëú”«1
+L	java:S106"+Replace this use of System.out by a logger.(ÚÌïıÿÿÿÿ8Ìú”«1
+G	java:S106"+Replace this use of System.out by a logger.(±Šû¯8üË‘”«1
+L	java:S106"+Replace this use of System.out by a logger.(´º§óıÿÿÿÿ8”é“”«1
+G	java:S106"+Replace this use of System.out by a logger.(©¿ıî8”é“”«1
+L	java:S106"+Replace this use of System.out by a logger.(šÈìúÿÿÿÿ8”é“”«1
+G	java:S106"+Replace this use of System.out by a logger.(ğ„æ8•é“”«1
+L	java:S106"+Replace this use of System.out by a logger.(ÜàÈğøÿÿÿÿ8•é“”«1
+G	java:S106"+Replace this use of System.out by a logger.(¨–—º8ş–›”«1
+G	java:S106"+Replace this use of System.out by a logger.(›ÆŸ¡8ş–›”«1
+L	java:S106"+Replace this use of System.out by a logger.(Í•ıÇÿÿÿÿÿ8ş–›”«1
+L	java:S106"+Replace this use of System.out by a logger.(Èô¢ùÿÿÿÿ8ÿ–›”«1
+L	java:S106"+Replace this use of System.out by a logger.(ôªåÔÿÿÿÿÿ8ÿ–›”«1
+L	java:S106"+Replace this use of System.out by a logger.(öáæîøÿÿÿÿ8Ô”¢”«1
+G	java:S106"+Replace this use of System.out by a logger.(ç®€¿8Ô”¢”«1
+G	java:S106"+Replace this use of System.out by a logger.(Ã‰êâ8Ô”¢”«1
+L	java:S106"+Replace this use of System.out by a logger.(»”øˆıÿÿÿÿ8Õ”¢”«1
+F	java:S106"+Replace this use of System.out by a logger.(¡®µ.8Õ”¢”«1
+L
+java:S1481"/Remove this unused "nummeroVar" local variable.(Öµ˜´8ûİ°”«1

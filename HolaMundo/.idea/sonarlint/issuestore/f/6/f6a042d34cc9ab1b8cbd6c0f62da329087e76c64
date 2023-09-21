@@ -1,0 +1,21 @@
+
+m
+java:S1192"KDefine a constant instead of duplicating this literal "esIgual = " 4 times.(«äû£ûÿÿÿÿ8”ü¾¿«1
+n
+java:S1192"RDefine a constant instead of duplicating this literal "Programacion Java" 4 times.(İÌL8”ü¾¿«1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(›ü‚”ıÿÿÿÿ8”ü¾¿«1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Û¨£ƒıÿÿÿÿ8”ü¾¿«1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¹æ‚½ıÿÿÿÿ8”ü¾¿«1
+7
+java:S1220""Move this file to a named package.8”ü¾¿«1
+=
+java:S2129" Remove this "String" constructor(ØÍ‹²8œü¾¿«1
+L	java:S106"+Replace this use of System.out by a logger.(«äû£ûÿÿÿÿ8œü¾¿«1
+L	java:S106"+Replace this use of System.out by a logger.(êÒüŒÿÿÿÿÿ8ü¾¿«1
+L	java:S106"+Replace this use of System.out by a logger.(êÒüŒÿÿÿÿÿ8ü¾¿«1
+=
+java:S2129" Remove this "String" constructor(³Â8ü¾¿«1
+L	java:S106"+Replace this use of System.out by a logger.(«äû£ûÿÿÿÿ8ü¾¿«1
