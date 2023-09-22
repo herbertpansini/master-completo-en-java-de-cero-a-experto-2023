@@ -23,3 +23,19 @@ M
 src/EjemploStringValidar.java,9/7/97607906f2da4d3758afc9508c235093ec57202f
 M
 src/EjemploStringMetodos.java,f/a/fa1d50a2d6da478813dd145c3d8f7fba16c7b277
+U
+%src/EjemploStringExtesionArchivo.java,7/3/73cf4fbbd627a2c85f100362b3350e6cb7dd5313
+T
+$src/EjemploStringMetodosArreglo.java,6/1/61bafaa0f0b05c683aed2e455fcd99c2b8e7ae10
+N
+src/OperadoresAritmeticos.java,c/b/cb635fc45447e7240bc568070779be0bf4dda891
+M
+src/OperadoresAsignacion.java,3/7/377b88c28382c84e8f83779fcff877f83be4d84f
+J
+src/OperadoresUnarios.java,5/6/5648aa864a2e441b8b7fc1c4eae855e37e15d405
+P
+ src/OperadoresIncrementales.java,c/c/cc14580e6079f4cb110492a8ebe21e4046109c98
+O
+src/OperadoresRelacionales.java,0/0/004dd704de64ac84b09f3b56715a77a5232df2a9
+J
+src/OperadoresLogicos.java,2/9/29986688ce27696e025e65c99e004710436165bd

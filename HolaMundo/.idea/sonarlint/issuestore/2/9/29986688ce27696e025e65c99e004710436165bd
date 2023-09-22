@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8íÏŒÉ«1
+C
+java:S1125	"'Remove the unnecessary boolean literal.(Şµb8ñÏŒÉ«1
+G	java:S106
+"+Replace this use of System.out by a logger.(ûê¼›8ñÏŒÉ«1
+G	java:S106"+Replace this use of System.out by a logger.(“®¹ï8ñÏŒÉ«1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ê“âºùÿÿÿÿ8òÏŒÉ«1
+L	java:S106"+Replace this use of System.out by a logger.(ìàÊÁıÿÿÿÿ8òÏŒÉ«1

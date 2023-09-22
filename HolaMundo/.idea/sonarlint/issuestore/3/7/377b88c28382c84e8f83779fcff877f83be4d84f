@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8ïê÷Ç«1
+L	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ8ôê÷Ç«1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8ôê÷Ç«1
+L	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ8ôê÷Ç«1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ÞÀÍìøÿÿÿÿ8ôê÷Ç«1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8õê÷Ç«1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ùïè¼8õê÷Ç«1
+L	java:S106"+Replace this use of System.out by a logger.(°Áƒ‹ûÿÿÿÿ8õê÷Ç«1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÁÜ˜æøÿÿÿÿ8õê÷Ç«1
+L	java:S106"+Replace this use of System.out by a logger.(·ãÕÞÿÿÿÿÿ8õê÷Ç«1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8õê÷Ç«1
